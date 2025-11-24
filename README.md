@@ -1,4 +1,4 @@
-# 🎨 Kalexi-AI SketchLab: Zero-to-Sketch
+# 🎨 Kalexi-AI SketchLab
 
 
 
