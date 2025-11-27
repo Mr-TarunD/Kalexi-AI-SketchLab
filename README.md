@@ -6,6 +6,7 @@
 
 **Kalexi-AI SketchLab** is a cutting-edge web application designed to instantly transform photographs into professional-grade line art and technical outlines. By bridging the gap between high-performance **Generative AI** models and a simple **Streamlit** UI, it offers artists, architects, and designers two powerful, controllable modes for image processing. The entire application runs on the accelerated compute of **Google Colab**.
 
+https://github.com/user-attachments/assets/5b765506-ab31-408c-b259-95cb406c1f87
 
 ![Kalexi-AI-SketchLab Screenshot](https://github.com/Mr-TarunD/Kalexi-AI-SketchLab/blob/8962cbc007171e9e51532f6e88c11a7958325b0e/HomePage.png)
 
